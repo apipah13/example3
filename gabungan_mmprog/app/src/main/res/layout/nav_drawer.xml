@@ -10,7 +10,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/profil"
-        android:padding="10dp"
         android:orientation="horizontal">
 
         <TextView
@@ -18,7 +17,7 @@
             android:layout_height="wrap_content"
             android:text="profil"
             android:textSize="20dp"
-            android:drawableLeft="@drawable/profil2"
+            android:drawableLeft="@drawable/profil"
             android:drawablePadding="5dp"/>
 
     </LinearLayout>
@@ -32,7 +31,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/pengaturan"
-        android:padding="10dp"
         android:orientation="horizontal">
 
         <TextView
@@ -40,7 +38,7 @@
             android:layout_height="wrap_content"
             android:text="pengaturan"
             android:textSize="20dp"
-            android:drawableLeft="@drawable/pengaturan"
+            android:drawableLeft="@drawable/setting"
             android:drawablePadding="5dp"/>
 
     </LinearLayout>
@@ -53,7 +51,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/bookmark"
-        android:padding="10dp"
         android:orientation="horizontal">
 
         <TextView
@@ -61,7 +58,7 @@
             android:layout_height="wrap_content"
             android:text="bookmark"
             android:textSize="20dp"
-            android:drawableLeft="@drawable/bookmark2"
+            android:drawableLeft="@drawable/bookmark"
             android:drawablePadding="5dp"/>
 
     </LinearLayout>
@@ -75,7 +72,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/notif"
-        android:padding="10dp"
         android:orientation="horizontal">
 
         <TextView
@@ -83,7 +79,7 @@
             android:layout_height="wrap_content"
             android:text="notifikasi"
             android:textSize="20dp"
-            android:drawableLeft="@drawable/notif2"
+            android:drawableLeft="@drawable/notifications"
             android:drawablePadding="5dp"/>
 
     </LinearLayout>
@@ -96,7 +92,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/logout"
-        android:padding="10dp"
         android:orientation="horizontal">
 
         <TextView
@@ -104,7 +99,7 @@
             android:layout_height="wrap_content"
             android:text="logout"
             android:textSize="20dp"
-            android:drawableLeft="@drawable/logout2"
+            android:drawableLeft="@drawable/logout"
             android:drawablePadding="5dp"/>
 
     </LinearLayout>
